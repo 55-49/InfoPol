@@ -1,238 +1,125 @@
-# 🛡️ CONSULTA POLICIAL | CHILE
+# 🛡️ InfoPol | Consulta Policial Chile
 
-### 📚 Tu ayuda memoria policial, en un solo lugar.
+### Tu ayuda de memoria policial, en un solo lugar.
 
-¡Bienvenidos a Consulta Policial! 👋
+🌐 **Acceso directo:** [https://55-49.github.io/InfoPol/](https://55-49.github.io/InfoPol/)
 
-Este proyecto nace con la idea de crear una herramienta práctica, sencilla y de fácil acceso que sirva como complemento y ayuda memoria para el personal de Carabineros de Chile, tanto durante el servicio como para el estudio y reforzamiento de conocimientos.
+## 📌 ¿Qué es InfoPol?
 
-La finalidad es reunir en una sola página información que muchas veces tenemos que buscar en diferentes documentos, reglamentos, leyes, manuales y archivos.
+InfoPol es una plataforma web independiente, gratuita y de fácil acceso, desarrollada con el propósito de complementar y facilitar la labor policial diaria, sirviendo como herramienta de consulta y ayuda de memoria para el personal de Carabineros de Chile.
 
-Todo disponible desde tu celular, tablet o computador. 📱
+El proyecto busca centralizar información documental, procedimientos policiales, normativa, actas, formularios, tips de redacción y rubros utilizados habitualmente en la confección de partes policiales.
 
----
+Su objetivo es facilitar el acceso rápido a la información desde cualquier dispositivo, tanto durante el servicio como para el estudio y reforzamiento de conocimientos.
 
-## 🎯 ¿Qué buscamos con este proyecto?
+## 🚀 Principales funcionalidades
 
-- 🔎 Facilitar la búsqueda de información policial.
-- 📚 Centralizar reglamentos y legislación.
-- 🚔 Consultar procedimientos con y sin detenidos.
-- 📝 Facilitar la descarga de actas policiales.
-- ✅ Disminuir errores y omisiones en la documentación.
-- 💡 Resolver dudas frecuentes.
-- 🎓 Reforzar los conocimientos profesionales.
-- ⏱️ Ahorrar tiempo al momento de realizar una consulta.
-- 🤝 Compartir información útil entre colegas.
+- 🔍 **Buscador general:** consulta rápida de procedimientos, normativa y documentación.
+- 📋 **Tips de partes policiales:** modelos de redacción organizados según cada procedimiento.
+- 🔤 **Índice de rubros A–Z:** consulta alfabética con descripciones y variantes de textos.
+- ✅ **Clasificación de rubros:** identificación de rubros principales, condicionales y no habituales según el procedimiento.
+- 📑 **Actas Word:** acceso a formularios y documentos editables.
+- 📚 **Biblioteca documental:** procedimientos, reglamentos y referencias normativas.
+- ⚖️ **Procesal penal:** flagrancia, detenciones, derechos y plazos.
+- 🚘 **Tránsito:** procedimientos e infracciones a la Ley de Tránsito.
+- 🔬 **Ley 20.000:** procedimientos relacionados con drogas, incautaciones y documentación asociada.
+- 📦 **Cadenas de custodia:** modelos de redacción, NUE y remisión de especies.
+- ⭐ **Favoritos:** acceso rápido a las referencias guardadas.
+- 📲 **Compartir e instalar:** difusión mediante WhatsApp y acceso desde la pantalla de inicio de dispositivos Android y Apple.
+- 🌙 **Modo nocturno:** interfaz adaptable para facilitar la consulta en distintas condiciones de iluminación.
+- 📊 **Contador de visitas:** integración con Stats4U.
 
----
-
-## 🚀 ¿Qué encontrarás en la página?
-
-| Icono | Sección | Contenido |
-|---|---|---|
-| 🔍 | Buscador general | Consultas por palabras, preguntas y situaciones. |
-| 🚔 | Procedimientos policiales | Diferentes tipos de procedimientos con y sin detenidos. |
-| 📝 | Actas policiales | Formularios descargables y editables en Word. |
-| 📚 | Reglamentos | Biblioteca de reglamentos institucionales. |
-| ⚖️ | Procesal penal | Consultas y referencias legales. |
-| 🚦 | Tránsito | Infracciones y normativa de tránsito. |
-| 💬 | Situaciones | Ejemplos de preguntas y consultas frecuentes. |
-| 📋 | Partes policiales | Herramientas de apoyo a la revisión documental. |
-| ⭐ | Favoritos | Guarda las consultas que utilizas frecuentemente. |
-| 📲 | Compartir | Envía fácilmente la página a otros colegas. |
-
----
-
-## 📂 Biblioteca de procedimientos
-
-Actualmente encontrarás información relacionada con:
-
-- 🚨 Procedimientos con detenidos.
-- 📋 Procedimientos sin detenidos.
-- 🏠 Violencia intrafamiliar (VIF).
-- ⚖️ Órdenes judiciales.
-- 🛍️ Hurto y robo.
-- 💊 Ley de Drogas N.º 20.000.
-- 🛡️ Ley de Control de Armas.
-- 🌲 Legislación forestal.
-- 🧒 Niños, niñas y adolescentes.
-- 🚗 Accidentes de tránsito.
-- 🍺 Ley de Alcoholes.
-- 🔎 Presunta desgracia.
-- 💳 Estafas.
-- 🔨 Daños.
-- 📖 Disciplina y sumarios administrativos.
-- 📑 Otros procedimientos de interés policial.
-
-Cada procedimiento busca entregar información de referencia, antecedentes relevantes y actas principales o complementarias que podrían corresponder según las circunstancias del caso.
-
----
-
-## 📊 El proyecto en cifras
+## 📚 Biblioteca actual
 
 | Contenido | Cantidad |
 |---|---:|
-| 🚔 Procedimientos y pautas policiales | 59 |
-| 📝 Actas Word descargables | 58 |
-| 📚 Secciones normativas | 29 |
-| 📖 Páginas de reglamentos | 907 |
-| 🔎 Fragmentos reglamentarios indexados | 2.848 |
-| ⚖️ Fichas legales | 24 |
+| Procedimientos clasificados en tips | 35 |
+| Rubros policiales | 69 |
+| Modelos de redacción | 88 |
+| Fichas de procedimientos | 59 |
+| Actas Word | 58 |
+| Fragmentos normativos | 2.848 |
 
-¡Y seguiremos creciendo! 🚀
+La biblioteca continuará ampliándose progresivamente mediante la incorporación de nuevos antecedentes, procedimientos y modelos documentales.
 
----
+## 🎨 Diseño y experiencia de usuario
 
-## 💬 Ejemplos de consultas
+InfoPol cuenta con un diseño minimalista inspirado en la filosofía visual de Apple, priorizando la simplicidad, claridad y facilidad de navegación.
 
-¿Tienes dudas sobre algún procedimiento? Utiliza el buscador general con preguntas como:
+- Interfaz moderna y adaptable.
+- Diseño compatible con computadores, tablets y teléfonos.
+- Tipografía uniforme en todas las secciones.
+- Animaciones suaves y discretas.
+- Menú de navegación optimizado.
+- Buscadores instantáneos.
+- Copiado rápido de textos y rubros policiales.
+- Modo claro y oscuro.
 
-- ¿Qué actas corresponden a un procedimiento con detenido?
-- ¿Qué documentos debo considerar en un procedimiento por hurto?
-- ¿Qué antecedentes debo verificar en una denuncia por VIF?
-- ¿Qué normativa se aplica en procedimientos con adolescentes?
-- ¿Dónde encuentro el Reglamento N.º 11 de Disciplina?
-- ¿Qué documentación corresponde a un procedimiento por Ley 20.000?
-- ¿Qué antecedentes debo considerar en un procedimiento por legislación forestal?
+## 🆕 Última actualización — Versión 19.0
 
-La idea es facilitar el acceso a la información sin tener que revisar numerosos documentos por separado.
+📅 **Fecha: 28 de noviembre de 2026**
 
----
+**Principales mejoras de esta versión:**
 
-## 📱 Características de la plataforma
+- Incorporación del nuevo contador de visitas Stats4U.
+- Eliminación del antiguo contador GoatCounter.
+- Unificación del diseño minimalista en todas las secciones.
+- Optimización de la barra de navegación principal.
+- Mejoras en la navegación desde dispositivos móviles.
+- Renovación de la página de inicio.
+- Incorporación de accesos directos a las herramientas principales.
+- Ampliación del catálogo de procedimientos y rubros policiales.
+- Mejoras en los buscadores y modelos de redacción.
+- Separación de los procedimientos de tránsito y Ley 20.000.
+- Incorporación de información sobre la actualización de los plazos de flagrancia.
+- Mejoras generales de organización, presentación y usabilidad.
 
-- 🆓 Acceso gratuito.
-- 🌐 Disponible desde cualquier navegador compatible.
-- 📱 Compatible con celulares y tablets.
-- 💻 Compatible con computadores.
-- 🌙 Modo nocturno.
-- ☀️ Modo claro.
-- ⚡ Diseño ligero y optimizado.
-- 🎨 Interfaz moderna y minimalista.
-- 🔓 Sin registro ni contraseñas.
-- 📥 Descarga directa de actas.
-- ⭐ Sistema de favoritos.
-- 📲 Botón flotante para compartir.
-- 🔍 Buscador integrado.
+## 🛠️ Tecnologías utilizadas
 
----
+- HTML5.
+- CSS3.
+- JavaScript.
+- GitHub Pages.
+- Stats4U.
+- Almacenamiento local del navegador.
 
-## 🚧 Un proyecto en constante crecimiento
+La plataforma se encuentra desarrollada principalmente en un único archivo HTML, permitiendo una administración sencilla y actualizaciones sin necesidad de contratar servidores adicionales.
 
-Esta página no es un proyecto terminado.
+## 🔄 Proyecto en constante desarrollo
 
-La idea es continuar desarrollándola y complementándola poco a poco, incorporando nuevos procedimientos, actas, reglamentos, modificaciones legales, situaciones y herramientas que sean de utilidad para nuestros colegas.
+InfoPol es un proyecto que se actualizará progresivamente, conforme se incorporen nuevas herramientas, antecedentes documentales, modificaciones normativas y necesidades detectadas durante la labor policial.
 
-### 🔜 Próximas mejoras
+### Próximas mejoras
 
-- [ ] Incorporar más procedimientos policiales.
-- [ ] Ampliar la biblioteca de legislación especial.
-- [ ] Incorporar nuevas situaciones y preguntas frecuentes.
-- [ ] Actualizar y verificar los reglamentos institucionales.
-- [ ] Complementar las actas relacionadas con cada procedimiento.
-- [ ] Mejorar continuamente el buscador general.
-- [ ] Incorporar nuevas herramientas de consulta.
-- [ ] Optimizar la velocidad y compatibilidad.
-- [ ] Incorporar un contador global de visitas.
-- [ ] Mejorar la experiencia desde dispositivos móviles.
-- [ ] Corregir errores y complementar información.
+- Incorporación de nuevos procedimientos policiales.
+- Ampliación de la base de datos de tips y rubros.
+- Actualización de normativa y referencias legales.
+- Nuevas actas y formularios.
+- Mejoras en la búsqueda de información.
+- Optimización del rendimiento.
+- Incorporación de herramientas complementarias.
+- Corrección permanente de contenidos.
 
-Cada actualización buscará que la plataforma sea más completa, útil y fácil de utilizar.
+## ⚠️ Aviso importante
 
----
+InfoPol es una iniciativa independiente de apoyo documental y ayuda de memoria. No corresponde a una plataforma oficial de Carabineros de Chile ni del Ministerio Público.
 
-## 🤝 ¡Tu opinión también importa!
+La información disponible tiene carácter orientativo y no reemplaza la legislación vigente, los reglamentos institucionales, las instrucciones de la superioridad ni las disposiciones impartidas por el fiscal de turno.
 
-Si encuentras algún error, información desactualizada, un procedimiento incompleto o consideras que falta alguna acta, tus observaciones serán bienvenidas.
+Cada procedimiento debe ser evaluado conforme a sus circunstancias particulares y a la normativa aplicable.
 
-💡 Las sugerencias de quienes utilizan esta herramienta permitirán mejorarla y adaptarla a las necesidades reales del servicio policial.
-
-La finalidad es construir una biblioteca de consulta que sea realmente útil para todos.
-
----
-
-## 🔐 Privacidad y seguridad de la información
-
-Este proyecto no tiene como finalidad almacenar ni divulgar información delicada o reservada.
-
-Los ejemplos incorporados son genéricos y de carácter referencial.
-
-No se pretende publicar:
-
-- ❌ Datos personales de detenidos.
-- ❌ Antecedentes de víctimas o denunciantes.
-- ❌ Información de testigos.
-- ❌ Investigaciones policiales reales.
-- ❌ Documentación reservada.
-- ❌ Información sensible de funcionarios.
-
-La protección de la información debe mantenerse como una prioridad durante todo el desarrollo del proyecto.
+No deben incorporarse ni publicarse antecedentes personales, reservados o confidenciales.
 
 ---
 
-## ⚠️ IMPORTANTE
+🇨🇱 **Desarrollado para facilitar la consulta, fortalecer los conocimientos y complementar la labor policial diaria.**
 
-Esta plataforma es una iniciativa independiente y **NO corresponde a un sitio oficial de Carabineros de Chile**.
+📚 Conocimiento · Prevención · Procedimientos · Servicio
 
-Su contenido tiene una finalidad informativa, educativa y de apoyo documental, siendo exclusivamente una herramienta complementaria y de ayuda memoria.
+**INFOPOL — Tu ayuda de memoria en servicio.**
 
-No reemplaza:
-
-- 📕 La legislación vigente.
-- 📗 Los reglamentos institucionales.
-- 📘 Las instrucciones del mando.
-- 📙 Las órdenes de servicio.
-- ⚖️ Las instrucciones del Ministerio Público.
-- 📝 Los protocolos oficiales de actuación.
-
-Siempre se deberá verificar la vigencia de la información, las circunstancias particulares del procedimiento y las instrucciones correspondientes.
-
----
-
-## 🛠️ Desarrollo tecnológico
-
-La plataforma está desarrollada utilizando:
-
-- 🟠 HTML5.
-- 🔵 CSS3.
-- 🟡 JavaScript.
-- 🐙 GitHub Pages.
-
-Se ha priorizado una estructura sencilla, rápida y accesible, sin necesidad de instalar programas adicionales ni utilizar servidores complejos.
-
----
-
-## 🔗 Comparte esta herramienta
-
-Si consideras que esta página puede ser de utilidad para algún colega, ¡compártela! 📲
-
-Mientras más personas puedan aportar sugerencias y detectar oportunidades de mejora, más completa será esta herramienta.
-
-**El conocimiento compartido nos permite mejorar continuamente.**
-
----
-
-## 📅 Información del proyecto
-
-| Información | Detalle |
-|---|---|
-| 🛡️ Nombre | Consulta Policial — Chile |
-| 🖥️ Versión | 13.2 |
-| 🟢 Estado | Activo y en desarrollo |
-| 🔄 Actualizaciones | Permanentes y progresivas |
-| 💰 Acceso | Gratuito |
-| 🇨🇱 País | Chile |
-| 📅 Última actualización | 26 de noviembre de 2026 |
-| 🕐 Hora | 06:21 horas |
-
----
-
-### 💚 Creado para apoyar, compartir y facilitar el conocimiento policial.
-
-**🛡️ CONSULTA POLICIAL — CHILE 🇨🇱**
-
-📚 Consulta · 💡 Aprende · 📝 Verifica · 🤝 Comparte
-
-*Una ayuda memoria para el día a día de la función policial.*
-
-⭐ Si te resulta útil este proyecto, puedes dejar una estrella en el repositorio de GitHub.
+📅 Última actualización: 28/11/2026  
+🚀 Versión actual: 19.0  
+🟢 Estado del proyecto: En desarrollo continuo  
+🌐 Alojamiento: GitHub Pages  
+💚 Acceso gratuito
