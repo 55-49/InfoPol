@@ -1,4 +1,4 @@
-# 🛡️ CONSULTA POLICIAL | CHILE 🇨🇱
+# 🛡️ CONSULTA POLICIAL | CHILE
 
 ### 📚 Tu ayuda memoria policial, en un solo lugar.
 
